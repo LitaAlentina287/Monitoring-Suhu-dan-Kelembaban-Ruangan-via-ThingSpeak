@@ -55,25 +55,25 @@ HTTP digunakan untuk mengirimkan data suhu, kelembaban, dan status ruangan dari 
 
 ## Diagram Sistem
 
-![Diagram Sistem](images/rangkaian.png)
+![Diagram Sistem](image/diagram.png)
 
 ---
 
 ## Flowchart Sistem
 
-![Flowchart Sistem](images/flowchart.png)
+![Flowchart Sistem](image/flowchart.png)
 
 ---
 
 ## Hasil Simulasi
 
-![Hasil Simulasi](images/hasil-simulasi.png)
+![Hasil Simulasi](image/hasil-simulasi.png)
 
 ---
 
 ## Hasil Monitoring ThingSpeak
 
-![ThingSpeak](images/thingspeak.png)
+![ThingSpeak](image/thingspeak.png)
 
 ---
 
