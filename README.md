@@ -55,7 +55,7 @@ HTTP digunakan untuk mengirimkan data suhu, kelembaban, dan status ruangan dari 
 
 ## Diagram Sistem
 
-![Diagram Sistem](image/rangkaian.png)
+![Diagram Sistem](image/diagram.png)
 
 ---
 
@@ -67,7 +67,7 @@ HTTP digunakan untuk mengirimkan data suhu, kelembaban, dan status ruangan dari 
 
 ## Hasil Simulasi
 
-![Hasil Simulasi](image/hasil simulasi.png)
+![Hasil Simulasi](image/hasil-simulasi.png)
 
 ---
 
