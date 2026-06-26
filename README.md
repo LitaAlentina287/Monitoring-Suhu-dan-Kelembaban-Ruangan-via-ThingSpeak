@@ -67,7 +67,7 @@ HTTP digunakan untuk mengirimkan data suhu, kelembaban, dan status ruangan dari 
 
 ## Hasil Simulasi
 
-![Hasil Simulasi](image/hasil simulasi.png)
+![Simulasi](image/simulasi.png)
 
 ---
 
