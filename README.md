@@ -132,6 +132,6 @@ Berdasarkan hasil pengujian, sistem berhasil bekerja sesuai dengan yang diharapk
 
 ## Author
 
-**Lita Alentina**
-**NIM:** 23552011097
-**Kelas:** TIF K 23B
+- **Lita Alentina**
+- **NIM:** 23552011097
+- **Kelas:** TIF K 23B
